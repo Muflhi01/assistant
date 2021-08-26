@@ -1,0 +1,16 @@
+D:\work\wonoly_assistant\bin\Debug\net5.0\wonoly_assistant.exe
+D:\work\wonoly_assistant\bin\Debug\net5.0\wonoly_assistant.deps.json
+D:\work\wonoly_assistant\bin\Debug\net5.0\wonoly_assistant.runtimeconfig.json
+D:\work\wonoly_assistant\bin\Debug\net5.0\wonoly_assistant.runtimeconfig.dev.json
+D:\work\wonoly_assistant\bin\Debug\net5.0\wonoly_assistant.dll
+D:\work\wonoly_assistant\bin\Debug\net5.0\ref\wonoly_assistant.dll
+D:\work\wonoly_assistant\bin\Debug\net5.0\wonoly_assistant.pdb
+D:\work\wonoly_assistant\obj\Debug\net5.0\wonoly_assistant.csproj.AssemblyReference.cache
+D:\work\wonoly_assistant\obj\Debug\net5.0\wonoly_assistant.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\wonoly_assistant\obj\Debug\net5.0\wonoly_assistant.AssemblyInfoInputs.cache
+D:\work\wonoly_assistant\obj\Debug\net5.0\wonoly_assistant.AssemblyInfo.cs
+D:\work\wonoly_assistant\obj\Debug\net5.0\wonoly_assistant.csproj.CoreCompileInputs.cache
+D:\work\wonoly_assistant\obj\Debug\net5.0\wonoly_assistant.dll
+D:\work\wonoly_assistant\obj\Debug\net5.0\ref\wonoly_assistant.dll
+D:\work\wonoly_assistant\obj\Debug\net5.0\wonoly_assistant.pdb
+D:\work\wonoly_assistant\obj\Debug\net5.0\wonoly_assistant.genruntimeconfig.cache
